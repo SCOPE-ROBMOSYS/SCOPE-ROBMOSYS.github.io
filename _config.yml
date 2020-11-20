@@ -28,6 +28,7 @@ description: Skill COmposition with verified system PropErties
 
 # List of links in the navigation bar
 navbar-links:
+  Home: "index"
   Results: "results"
 #  Work Packages:
 #    - WP1 - Dissemination and Deployment: "wp1"
@@ -35,11 +36,11 @@ navbar-links:
 #    - WP3 - Component-based Formal Development Approach: "wp3"
 #    - WP4 - Software Development: "wp4"
 #    - WP5 - Tool for Behavior Tree Integration and Verification: "wp5"
-  Releases:
+  Scenario:
     - Release 1: "release1"
     - Release 2: "release2"
     - Release 3: "release3"
-  Media: "media"
+#  Media: "media"
   Consortium: "consortium"
 
 # Image to show in the navigation bar - image must be a square (width = height)
