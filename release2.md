@@ -42,5 +42,5 @@ The main task is:
 
  The video below shows the execution of Scenario 2
 <p align="center">
- <iframe width="580" height="315" src="https://www.youtube.com/embed/yIBwSQ8pLmo&feature" frameborder="0" allowfullscreen></iframe>
+ <iframe width="580" height="315" src="https://www.youtube.com/embed/yIBwSQ8pLmo" frameborder="0" allowfullscreen></iframe>
 </p>
