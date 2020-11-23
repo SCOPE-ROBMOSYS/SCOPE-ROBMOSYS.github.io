@@ -23,5 +23,5 @@ The BT encodes the following logic:
 gets fully charged.
 - If the battery level is above 20% and it is not under charge, it goes to the destination.
 
-We made available an OS-level virtualization environment based on [Docker](www.docker.com) to
+We made available an OS-level virtualization environment based on [Docker](https://www.docker.com) to
 reproduce the experiments [here](https://github.com/SCOPE-ROBMOSYS/bt-implementation/tree/release1).
