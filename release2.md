@@ -29,10 +29,10 @@ The figure below shows the BT of Scenario 2.
 
 The BT encodes the following logic:
 
-- The robot checks if the battery level is below $20$\% of its capacity or if the battery is under charge.
-- If the battery level is below $20$\% and it is not already under charge, the robot goes to the charging station.
+- The robot checks if the battery level is below 20% of its capacity or if the battery is under charge.
+- If the battery level is below 20% and it is not already under charge, the robot goes to the charging station.
 - If the battery is under charge and the robot is at the charging station, the robot waits until the battery gets fully charged.
-- If the battery level is above $20$\% and it is not under charge, it performs the main task.
+- If the battery level is above 20% and it is not under charge, it performs the main task.
 
 The main task is:
  - If there are no objects in the robot's hand, the robot goes to the user to fetch an object.
