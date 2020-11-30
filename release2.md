@@ -16,10 +16,10 @@ The main differences with the [Release 1](release1.md){:target="_blank"} are:
 - The deployment on a more complex task. In the first release, we presented a navigation task. In this release, the task includes a fetch-and-carry scenario.
 - The real robot validation. We provide experimental validation of the toolchain on a real robot.
 
-# Behavior Tree of Scenario 2
+# Behavior Tree of Release 2
 
 
-The figure below shows the BT of Scenario 2.
+The figure below shows the BT of Release 2.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/8132627/99838997-4fc88080-2b6a-11eb-9d60-6cb3e4da68fa.png" width="500">
@@ -38,9 +38,9 @@ The main task is:
  - If there are no objects in the robot's hand, the robot goes to the user to fetch an object.
  - If there is an object in the robot 's hand, the robot goes to a predefined destination.
 
-# Execution of Scenario 2
+# Execution of Release 2
 
- The video below shows the execution of Scenario 2
+ The video below shows the execution of Release 2
 <p align="center">
  <iframe width="580" height="315" src="https://www.youtube.com/embed/yIBwSQ8pLmo" frameborder="0" allowfullscreen></iframe>
 </p>
