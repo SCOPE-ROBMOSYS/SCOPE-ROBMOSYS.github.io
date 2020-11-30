@@ -9,7 +9,7 @@ This release is similar to the one we developed for the [Release 2](release2.md)
 # Behavior Tree of Release 3
 
 
-The figure below shows the BT of Scenario 2.
+The figure below shows the BT of Scenario 3.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/8132627/99838997-4fc88080-2b6a-11eb-9d60-6cb3e4da68fa.png" width="500">
