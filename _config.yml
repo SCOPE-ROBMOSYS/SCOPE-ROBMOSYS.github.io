@@ -36,7 +36,7 @@ navbar-links:
 #    - WP3 - Component-based Formal Development Approach: "wp3"
 #    - WP4 - Software Development: "wp4"
 #    - WP5 - Tool for Behavior Tree Integration and Verification: "wp5"
-  Scenario:
+  Toolchain:
     - Release 1: "release1"
     - Release 2: "release2"
     - Release 3: "release3"
