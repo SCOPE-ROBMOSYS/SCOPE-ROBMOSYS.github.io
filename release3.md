@@ -32,5 +32,5 @@ The main task is:
 
  The video below shows the execution of Release 3.  We present three scenarios, a nominal one (with no property violation), one with a safety property violation, and one with a response property violation.
 <p align="center">
- <iframe width="580" height="315" src="https://youtu.be/VzwVpr9RR0E" frameborder="0" allowfullscreen></iframe>
+  <iframe width="580" height="315" src="https://www.youtube.com/embed/VzwVpr9RR0E" frameborder="0" allowfullscreen></iframe>
 </p>
